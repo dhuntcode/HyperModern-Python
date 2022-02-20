@@ -1,0 +1,5 @@
+name: hypermodern-python
+dependencies:
+  - python=3.8
+  - poetry
+ 
